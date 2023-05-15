@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methode of median", "methode of median\methode of median.csproj", "{D948F0B2-3808-49B1-B29F-3309F50D529F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D948F0B2-3808-49B1-B29F-3309F50D529F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D948F0B2-3808-49B1-B29F-3309F50D529F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D948F0B2-3808-49B1-B29F-3309F50D529F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D948F0B2-3808-49B1-B29F-3309F50D529F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843D1320-900A-453F-BA86-D2B179A82503}
+	EndGlobalSection
+EndGlobal
